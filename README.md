@@ -9,12 +9,12 @@ RFdiffusion is a denoising diffusion model built on RoseTTAFold that generates p
 3. **Design symmetric oligomers** (e.g., C4, D2) by enforcing group symmetries during generation.  
 4. **Create hotspot‑guided binders** by conditioning the diffusion process on specific residue contacts.  
 
-Our evaluation measures metrics such as pLDDT confidence scores and backbone RMSD, and compares performance across different tasks. Full details—including methodology, results, and discussion—are in the report. :contentReference[oaicite:0]{index=0}:contentReference[oaicite:1]{index=1}
+Our evaluation measures metrics such as pLDDT confidence scores and backbone RMSD, and compares performance across different tasks. Full details—including methodology, results, and discussion—are in the report. 
 
 ## Contents
 
 - **`CSIC689_Final_Report.pdf`**  
-  Detailed write‑up of background, methodology, experiments, results, and future directions. :contentReference[oaicite:2]{index=2}:contentReference[oaicite:3]{index=3}  
+  Detailed write‑up of background, methodology, experiments, results, and future directions. 
 - **`rfdiffusion.ipynb`**  
   Jupyter notebook implementing all experiments:  
   1. Unconditional protein generation  
